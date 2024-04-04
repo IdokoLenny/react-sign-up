@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%3Chttps://IdokoLenny.github.io/react-sign-up%3E/static/css/main.6c59a10a.css",
-    "main.js": "/%3Chttps://IdokoLenny.github.io/react-sign-up%3E/static/js/main.e4068b8b.js",
-    "index.html": "/%3Chttps://IdokoLenny.github.io/react-sign-up%3E/index.html",
-    "main.6c59a10a.css.map": "/%3Chttps://IdokoLenny.github.io/react-sign-up%3E/static/css/main.6c59a10a.css.map",
-    "main.e4068b8b.js.map": "/%3Chttps://IdokoLenny.github.io/react-sign-up%3E/static/js/main.e4068b8b.js.map"
+    "main.css": "/react-sign-up/static/css/main.6c59a10a.css",
+    "main.js": "/react-sign-up/static/js/main.e4068b8b.js",
+    "index.html": "/react-sign-up/index.html",
+    "main.6c59a10a.css.map": "/react-sign-up/static/css/main.6c59a10a.css.map",
+    "main.e4068b8b.js.map": "/react-sign-up/static/js/main.e4068b8b.js.map"
   },
   "entrypoints": [
     "static/css/main.6c59a10a.css",
